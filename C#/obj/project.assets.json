@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\progs\\CertCheck\\CertCheck.csproj",
+      "projectUniqueName": "C:\\progs\\CertCheck\\C#\\CertCheck.csproj",
       "projectName": "CertCheck",
-      "projectPath": "C:\\progs\\CertCheck\\CertCheck.csproj",
+      "projectPath": "C:\\progs\\CertCheck\\C#\\CertCheck.csproj",
       "packagesPath": "C:\\Users\\fbuccoli\\.nuget\\packages\\",
-      "outputPath": "C:\\progs\\CertCheck\\obj\\",
+      "outputPath": "C:\\progs\\CertCheck\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fbuccoli\\AppData\\Roaming\\NuGet\\NuGet.Config"
