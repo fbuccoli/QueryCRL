@@ -1,0 +1,15 @@
+C:\progs\CertCheck\bin\Debug\net7.0\CertCheck.exe
+C:\progs\CertCheck\bin\Debug\net7.0\CertCheck.deps.json
+C:\progs\CertCheck\bin\Debug\net7.0\CertCheck.runtimeconfig.json
+C:\progs\CertCheck\bin\Debug\net7.0\CertCheck.dll
+C:\progs\CertCheck\bin\Debug\net7.0\CertCheck.pdb
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.csproj.AssemblyReference.cache
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.AssemblyInfoInputs.cache
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.AssemblyInfo.cs
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.csproj.CoreCompileInputs.cache
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.dll
+C:\progs\CertCheck\obj\Debug\net7.0\refint\CertCheck.dll
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.pdb
+C:\progs\CertCheck\obj\Debug\net7.0\CertCheck.genruntimeconfig.cache
+C:\progs\CertCheck\obj\Debug\net7.0\ref\CertCheck.dll
