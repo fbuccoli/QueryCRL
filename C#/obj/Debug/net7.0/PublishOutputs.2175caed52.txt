@@ -1,0 +1,5 @@
+C:\progs\CertCheck\C#\bin\Debug\net7.0\publish\QueryCRL.exe
+C:\progs\CertCheck\C#\bin\Debug\net7.0\publish\QueryCRL.dll
+C:\progs\CertCheck\C#\bin\Debug\net7.0\publish\QueryCRL.deps.json
+C:\progs\CertCheck\C#\bin\Debug\net7.0\publish\QueryCRL.runtimeconfig.json
+C:\progs\CertCheck\C#\bin\Debug\net7.0\publish\QueryCRL.pdb

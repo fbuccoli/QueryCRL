@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\progs\\CertCheck\\C#\\CertCheck.csproj",
-      "projectName": "CertCheck",
-      "projectPath": "C:\\progs\\CertCheck\\C#\\CertCheck.csproj",
+      "projectUniqueName": "C:\\progs\\CertCheck\\C#\\QueryCRL.csproj",
+      "projectName": "QueryCRL",
+      "projectPath": "C:\\progs\\CertCheck\\C#\\QueryCRL.csproj",
       "packagesPath": "C:\\Users\\fbuccoli\\.nuget\\packages\\",
       "outputPath": "C:\\progs\\CertCheck\\C#\\obj\\",
       "projectStyle": "PackageReference",

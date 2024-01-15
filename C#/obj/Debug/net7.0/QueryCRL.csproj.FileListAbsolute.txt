@@ -1,0 +1,15 @@
+C:\progs\CertCheck\C#\bin\Debug\net7.0\QueryCRL.exe
+C:\progs\CertCheck\C#\bin\Debug\net7.0\QueryCRL.deps.json
+C:\progs\CertCheck\C#\bin\Debug\net7.0\QueryCRL.runtimeconfig.json
+C:\progs\CertCheck\C#\bin\Debug\net7.0\QueryCRL.dll
+C:\progs\CertCheck\C#\bin\Debug\net7.0\QueryCRL.pdb
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.csproj.AssemblyReference.cache
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.AssemblyInfoInputs.cache
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.AssemblyInfo.cs
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.csproj.CoreCompileInputs.cache
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.dll
+C:\progs\CertCheck\C#\obj\Debug\net7.0\refint\QueryCRL.dll
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.pdb
+C:\progs\CertCheck\C#\obj\Debug\net7.0\QueryCRL.genruntimeconfig.cache
+C:\progs\CertCheck\C#\obj\Debug\net7.0\ref\QueryCRL.dll

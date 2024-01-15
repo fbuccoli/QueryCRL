@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E5iPcIi/2cS53I7Tr20I55e/fuvD5Nlen8wrAlOAsBTBwF8yNrFKdktrTHTdlNWol6afof1GVuQV4EW7rYFtqw==",
+  "dgSpecHash": "2UKH+CK6lMTuik4dybTnNVpsBSDybLcUGSRY/0K1ulZ85IyTg74Wv9YZMTRVoaVbsaL71rpSNOrkeqiNHcnAWg==",
   "success": true,
-  "projectFilePath": "C:\\progs\\CertCheck\\C#\\CertCheck.csproj",
+  "projectFilePath": "C:\\progs\\CertCheck\\C#\\QueryCRL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

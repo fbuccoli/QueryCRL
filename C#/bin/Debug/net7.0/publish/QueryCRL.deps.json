@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "CertCheck/1.0.0": {
+      "QueryCRL/1.0.0": {
         "runtime": {
-          "CertCheck.dll": {}
+          "QueryCRL.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CertCheck/1.0.0": {
+    "QueryCRL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

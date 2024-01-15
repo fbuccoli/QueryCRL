@@ -1,5 +1,0 @@
-C:\progs\CertCheck\bin\Debug\net7.0\publish\CertCheck.exe
-C:\progs\CertCheck\bin\Debug\net7.0\publish\CertCheck.dll
-C:\progs\CertCheck\bin\Debug\net7.0\publish\CertCheck.deps.json
-C:\progs\CertCheck\bin\Debug\net7.0\publish\CertCheck.runtimeconfig.json
-C:\progs\CertCheck\bin\Debug\net7.0\publish\CertCheck.pdb
