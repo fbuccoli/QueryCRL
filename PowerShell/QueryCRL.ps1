@@ -1,5 +1,12 @@
+# Query CRL for a certificate
+# for test and troubleshooting purposes only
+# Created: 2014-04-22
+# Modified: 2024-01-15
+# Author: Francesco V. Buccoli
+
 param(
-    [string]$url = "https://example.com"
+    [string]$url = "https://www.microsoft.com",
+    [int]$timeout = 10000
 )
 
 try {
@@ -7,6 +14,7 @@ try {
     $request = [System.Net.HttpWebRequest]::Create($url)
     $request.ServicePoint.ConnectionLimit = 1
     $request.Method = "HEAD"
+    $request.Timeout = $timeout  # Set timeout to 10 seconds
 
     # Retrieve the ServicePoint to access the certificate
     $servicePoint = $request.ServicePoint
