@@ -14,7 +14,7 @@ try {
     $request = [System.Net.HttpWebRequest]::Create($url)
     $request.ServicePoint.ConnectionLimit = 1
     $request.Method = "HEAD"
-    $request.Timeout = $timeout  # Set timeout to 10 seconds
+    $request.Timeout = $timeout  # Set timeout from parameter (default is 10 seconds)
 
     # Retrieve the ServicePoint to access the certificate
     $servicePoint = $request.ServicePoint
