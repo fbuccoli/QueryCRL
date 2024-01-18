@@ -1,26 +1,27 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {},
+    "net7.0/linux-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fbuccoli\\.nuget\\packages\\": {}
+    "C:\\Users\\franc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\progs\\CertCheck\\C#\\QueryCRL.csproj",
+      "projectUniqueName": "C:\\Progs\\QueryCRL\\QueryCRL\\C#\\QueryCRL.csproj",
       "projectName": "QueryCRL",
-      "projectPath": "C:\\progs\\CertCheck\\C#\\QueryCRL.csproj",
-      "packagesPath": "C:\\Users\\fbuccoli\\.nuget\\packages\\",
-      "outputPath": "C:\\progs\\CertCheck\\C#\\obj\\",
+      "projectPath": "C:\\Progs\\QueryCRL\\QueryCRL\\C#\\QueryCRL.csproj",
+      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+      "outputPath": "C:\\Progs\\QueryCRL\\QueryCRL\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fbuccoli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -54,12 +55,23 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.312\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
       }
     }
   }

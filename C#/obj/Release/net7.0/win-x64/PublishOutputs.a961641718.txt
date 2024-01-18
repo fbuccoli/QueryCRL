@@ -1,0 +1,5 @@
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\win-amd64\QueryCRL.exe
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\win-amd64\QueryCRL.dll
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\win-amd64\QueryCRL.deps.json
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\win-amd64\QueryCRL.runtimeconfig.json
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\win-amd64\QueryCRL.pdb

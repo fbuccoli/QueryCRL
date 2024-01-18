@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2UKH+CK6lMTuik4dybTnNVpsBSDybLcUGSRY/0K1ulZ85IyTg74Wv9YZMTRVoaVbsaL71rpSNOrkeqiNHcnAWg==",
+  "dgSpecHash": "nkRflf2JpTezFGLeZ8O7MDwgEusLNnQASTsFMYSD4aB76aoU2SxtwI9ooH5sMSZlWu9fxOZPjweN9T4gj3AFBQ==",
   "success": true,
-  "projectFilePath": "C:\\progs\\CertCheck\\C#\\QueryCRL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Progs\\QueryCRL\\QueryCRL\\C#\\QueryCRL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.15\\microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

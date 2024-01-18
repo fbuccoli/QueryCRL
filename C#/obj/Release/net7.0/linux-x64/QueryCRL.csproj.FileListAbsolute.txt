@@ -1,0 +1,14 @@
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\net7.0\linux-x64\QueryCRL
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\net7.0\linux-x64\QueryCRL.deps.json
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\net7.0\linux-x64\QueryCRL.runtimeconfig.json
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\net7.0\linux-x64\QueryCRL.dll
+C:\Progs\QueryCRL\QueryCRL\C#\bin\Release\net7.0\linux-x64\QueryCRL.pdb
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.AssemblyInfoInputs.cache
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.AssemblyInfo.cs
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.csproj.CoreCompileInputs.cache
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.dll
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\refint\QueryCRL.dll
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.pdb
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\QueryCRL.genruntimeconfig.cache
+C:\Progs\QueryCRL\QueryCRL\C#\obj\Release\net7.0\linux-x64\ref\QueryCRL.dll
